@@ -1,0 +1,16 @@
+# Dossiers de build
+bin/
+obj/
+
+# Fichiers générés
+*.txt
+*.log
+
+# Fichiers utilisateur VS Code / IDE
+.vscode/
+*.user
+*.suo
+
+# Fichiers système
+.DS_Store
+Thumbs.db
